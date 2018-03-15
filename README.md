@@ -1,1 +1,2 @@
-# devynsizemore.github.io
+# Devyns Website
+# This is only a sample, my friend.
